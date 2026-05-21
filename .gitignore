@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+llama3-8b-20newsgroups-qlora/
+
+# W&B local cache
+wandb/
+mlruns/
+
+# Dataset cache
+~/scikit_learn_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
