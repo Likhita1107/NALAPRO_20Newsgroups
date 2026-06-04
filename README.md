@@ -73,9 +73,7 @@ Expected wall-clock on a single T4 GPU (Colab Pro / Kaggle):
 | Task 3 | 50–70 min |
 | Task 4 + Bonus | ~90 min |
 
-## Report
 
-The final scientific report is at [`report/NALAPRO_Report.pdf`](report/NALAPRO_Report.pdf).
 
 ## Dataset
 
