@@ -11,14 +11,6 @@ Master's NLP project comparing five modeling paradigms on the
 
 ## Experiment tracking
 
-All metrics, plots, and confusion matrices are logged to Weights & Biases:
-
-| Task | W&B project |
-|---|---|
-| Task 1 (W2V + TF-IDF) | https://wandb.ai/<your-entity>/nalapro-task1 |
-| Task 2 (BERT FT)      | https://wandb.ai/<your-entity>/nalapro-task2 |
-| Task 3 (MLM + BERT)   | https://wandb.ai/<your-entity>/nalapro-task3 |
-| Task 4 + Bonus        | https://wandb.ai/<your-entity>/nalapro-task4-llama3 |
 
 A flat list of every individual run URL lives in [`wandb_links.md`](wandb_links.md).
 
